@@ -1,5 +1,4 @@
-# Welcome!
-to my blog. This is a collection of notes, projects, etc. that I want to share with the programming multiverse. Right now I'm interested in the following topics in no particular order: NoSQL, Cassandra, HBase, Machine Learning, Data Science, Statistics, Mathematics, Python, Javascript, Crystal, Django, AIOHTTP, Asynchronous Programming, React.js, PySpark, Sentiment Analysis, Twitter data. Hopefully you can find something interesting on my site :)
+Welcome to my blog. This is a collection of notes, projects, etc. that I want to share with the programming multiverse. Right now I'm interested in the following topics in no particular order: NoSQL, Cassandra, HBase, Machine Learning, Data Science, Statistics, Mathematics, Python, Javascript, Crystal, Django, AIOHTTP, Asynchronous Programming, React.js, PySpark, Sentiment Analysis, Deep Learning, Twitter data. Hopefully you can find something interesting/fun on my site :)
 
 You can contact me at boulderwebdev94 (@t) g m a i 1 .com with comments, questions, etc.
 
@@ -99,11 +98,11 @@ The only remaining piece to look at is if there is much of a difference in perfo
 
 ####  Pages Mentioned
 
-* https://docs.aiohttp.org/en/stable/index.html
-* https://docs.aiohttp.org/en/stable/web_advanced.html#middlewares
-* https://github.com/aio-libs/aiohttp/blob/07105705781776aea2c7a4fe10d8e2c6641284c3/aiohttp/web_middlewares.py#L25
-* https://github.com/aio-libs/aiohttp/blob/master/aiohttp/web_app.py#L337
-* https://aiohttp.readthedocs.io/en/stable/web_advanced.html#custom-routing-criteria
+* [https://docs.aiohttp.org/en/stable/index.html](https://docs.aiohttp.org/en/stable/index.html)
+* [https://docs.aiohttp.org/en/stable/web_advanced.html#middlewares](https://docs.aiohttp.org/en/stable/web_advanced.html#middlewares)
+* [https://github.com/aio-libs/aiohttp/blob/07105705781776aea2c7a4fe10d8e2c6641284c3/aiohttp/web_middlewares.py#L25](https://github.com/aio-libs/aiohttp/blob/07105705781776aea2c7a4fe10d8e2c6641284c3/aiohttp/web_middlewares.py#L25)
+* [https://github.com/aio-libs/aiohttp/blob/master/aiohttp/web_app.py#L337](https://github.com/aio-libs/aiohttp/blob/master/aiohttp/web_app.py#L337)
+* [https://aiohttp.readthedocs.io/en/stable/web_advanced.html#custom-routing-criteria](https://aiohttp.readthedocs.io/en/stable/web_advanced.html#custom-routing-criteria)
 
 ### Complete Code
 
